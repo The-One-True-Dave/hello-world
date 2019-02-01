@@ -1,5 +1,3 @@
 # hello-world
-I am the One Dave, the True Dave, Dave the Baller.
-Dave from Dave, Light From Light, True Dave from True Dave
-Begotten, not made, in one being with the Baller
-Through him all Daves were Dave
+I'm a manufacturing engineer wanting to refine my analytical skills to interpret and manage data
+I don't have a programming background, but as a lifelong learner this is more of a gift than a curse
